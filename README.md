@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **brandonyt@icloud.com**
 
-- ⚡ Fun fact **I am a powerlifter! (82.5kg weightclass)**
+- ⚡ Fun fact **I am a [82.5kg powerlifter](https://www.openpowerlifting.org/u/brandongonzalez)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
