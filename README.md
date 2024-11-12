@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Full Stack Messaging App](https://github.com/BrandonnGonzalez/-Full-Stack-Messenger-Chat-App)
 
-- 🌱 I’m currently learning **MEARN and React**
+- 🌱 I’m currently upskilling on **React and SQL**
 
 - 👯 I’m looking to collaborate on **Social Media App**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Javascript, Front End Development**
 
-- 📫 How to reach me **brandonyt@icloud.com**
+- 📫 How to reach me **strobaee@gmail.com**
 
 - ⚡ Fun fact **I am a [82.5kg powerlifter](https://www.openpowerlifting.org/u/brandongonzalez)**
 
