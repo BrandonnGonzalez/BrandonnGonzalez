@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Full Stack Messaging App](https://github.com/BrandonnGonzalez/-Full-Stack-Messenger-Chat-App)
 
-- 🌱 I’m currently upskilling on **React and SQL**
+- 🌱 I’m currently upskilling on **AWS & Web Security**
 
 - 👯 I’m looking to collaborate on **Social Media App**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brandonngonzalez.github.io./](https://brandonngonzalez.github.io./)
 
-- 💬 Ask me about **Javascript, Front End Development**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **strobaee@gmail.com**
 
