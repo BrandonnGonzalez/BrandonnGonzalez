@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently upskilling on **AWS & Web Security**
 
-- 👯 I’m looking to collaborate on **Social Media App**
+- 🙇🏼‍♂️ I’m looking to collaborate on **Social Media App**
 
 - 🤝 I’m looking for help with **Full Stack Membership Platform**
 
