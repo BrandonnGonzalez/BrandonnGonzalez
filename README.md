@@ -29,10 +29,11 @@
 </a>
 <a href="https://www.tiktok.com/@brandon_gonz" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg"
        alt="brandon_gonz"
        height="30"
        width="40" />
+</a>
 </a>
 </p>
 
