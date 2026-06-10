@@ -4,15 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonngonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="brandonngonzalez" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonngonzalez" alt="brandonngonzalez" /></a> </p>
 
 - 🔭[Personal Portfolio](https://bgonzalezswe.com/)
 
-- 🌱 I’m currently upskilling on **AWS & Web Security**
-
-- 🙇🏼‍♂️ I’m looking to collaborate on **Social Media App**
-
-- 🤝 I’m looking for help with **Full Stack Membership Platform**
+- 🌱 I’m currently upskilling on **Automation & Infrastructure**
 
 - 👨‍💻 All of my projects are available at [https://brandonngonzalez.github.io./](https://brandonngonzalez.github.io./)
 
@@ -20,11 +15,25 @@
 
 - 📫 How to reach me **brandongonzalezswe@gmail.com**
 
-- ⚡ Fun fact **I am a [82.5kg powerlifter](https://www.openpowerlifting.org/u/brandongonzalez)**
+- ⚡ Fun fact **I am also a tech influencer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bgonz207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bgonz207" height="30" width="40" /></a>
+<a href="https://instagram.com/swebrandoncodes" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="swebrandoncodes"
+       height="30"
+       width="40" />
+</a>
+<a href="https://www.tiktok.com/@brandon_gonz" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg"
+       alt="brandon_gonz"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
