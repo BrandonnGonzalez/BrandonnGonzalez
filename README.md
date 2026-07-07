@@ -69,7 +69,7 @@ I enjoy building software at the intersection of:
 
 ### Open To
 
-- Senior Software Engineering Opportunities
+- Software Engineering Opportunities
 - Full Stack Engineering Roles
 - AI / ML Engineering Roles
 - Developer Relations Opportunities
