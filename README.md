@@ -7,7 +7,6 @@
 <br/>
 
 ![FIU](https://img.shields.io/badge/Florida_International_University-Bachelor's_in_Computer_Science-6D28D9?style=for-the-badge)
-![GPA](https://img.shields.io/badge/GPA-3.53-7C3AED?style=for-the-badge)
 ![Software Engineer](https://img.shields.io/badge/Software_Engineer-Full_Stack-8B5CF6?style=for-the-badge)
 
 <br/>
@@ -281,6 +280,27 @@ Leading software engineering initiatives and delivering production-grade web app
 
 ---
 
+## Tech Fellow Manager — CodePath
+
+**May 2026 — Present**
+
+Supporting large-scale technical education programs and mentoring future software engineers.
+
+### Scope
+
+- Manage 400+ students
+- Support 30+ technical fellows
+- Coordinate instructional delivery
+- Monitor program success metrics
+- Leverage AI for educational impact
+
+**Skills**
+
+`Leadership` `Mentorship` `AI` `Program Management`
+
+
+---
+
 ## Software Development Engineer I — Restaurant Brands International
 
 **Feb 2025 — Jul 2025**
@@ -318,26 +338,6 @@ Developed analytics solutions and reporting systems supporting government stakeh
 **Skills**
 
 `Python` `SQL` `Power BI` `Tableau` `Azure DevOps`
-
----
-
-## Tech Fellow Manager — CodePath
-
-**May 2026 — Present**
-
-Supporting large-scale technical education programs and mentoring future software engineers.
-
-### Scope
-
-- Manage 400+ students
-- Support 30+ technical fellows
-- Coordinate instructional delivery
-- Monitor program success metrics
-- Leverage AI for educational impact
-
-**Skills**
-
-`Leadership` `Mentorship` `AI` `Program Management`
 
 ---
 
